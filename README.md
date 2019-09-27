@@ -1,3 +1,11 @@
+# DEPRECATED!
+
+This version of the repo is **DEPRECATED** and only used for archiving purposes (for those who started using ompy before the new layout).  
+- *Why was this neccesary?* The old repository was filled rather fill of large files that were not connected directly to the code. However, any filtering/rebase/etc of the history changes the `sha1`s of the previous commits. This may be inconvennient for some people who started using ompy before Oktober 2019. However, it will make the repo cleaner in the future.  
+- We tried also to preserve copy over the issues, just for reference.
+
+Please visit https://github.com/oslocyclotronlab/ompy for the current repository.
+
 # Oslo Method Python - OMpy
 ![Version](https://img.shields.io/badge/version-0.3-informational?style=flat-square)
 ![Travis (.org)](https://img.shields.io/travis/oslocyclotronlab/ompy?style=flat-square)
